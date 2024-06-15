@@ -7,7 +7,7 @@ This application displays Random emoji fetched from server. It fetches the emoji
 <table>
   <tr>
     <td><img src="screenshots/splash.png" width=150></td>
-    <td><img src="screenshots/emoji_view.png.png" width=150></td>
+    <td><img src="screenshots/emoji_view.png" width=150></td>
   </tr>
  </table>
 
