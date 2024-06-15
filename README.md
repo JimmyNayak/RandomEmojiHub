@@ -1,6 +1,6 @@
 ## Random Emoji Hub Android Application
 
-This application displays Random emoji fetched from server. It fetches the emoji from the [Emoji Hub](https://github.com/cheatsnake/emojihub).
+This application displays Random emoji fetched from [Emoji Hub](https://github.com/cheatsnake/emojihub).
 
 ## Screenshots
  
