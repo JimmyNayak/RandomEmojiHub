@@ -14,7 +14,7 @@ This application displays Random emoji fetched from server. It fetches the emoji
 ## Tech-Stack
 
 
-This project takes advantage of best practices and many popular libraries and tools in the Android ecosystem.
+This project built using of best practices and many popular libraries and tools in the Android ecosystem.
 
 * Kotlin
 * Coroutines
